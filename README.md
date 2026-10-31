@@ -2,8 +2,8 @@
 A baggage estimator application for users to calculate excess baggage fees for air travel.
 
 **DEVELOPER:**
-SITI HAWA BINTI MOHD NADZIM
-2024213854
+SITI HAWA BINTI MOHD NADZIM<br>
+2024213854<br>
 RCDCS2405A
 
 **PREPARED FOR:**
